@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leontan4
+- 👋 Hi, I’m Leon Tan!! Recent Software Engineering graduate student. 
 - 👀 I’m interested in Cloud Computing, Competitive Programming and Problem Solving.
 - 🌱 I’m currently learning Data Structure and Algorithm.
 - 💞️ I’m looking to collaborate on mini projects or building apps.

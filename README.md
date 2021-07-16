@@ -1,6 +1,6 @@
 ### Hi there, I'm Leon 👋
 
-[![Website](https://img.shields.io/website?label=Website%20Portfolio&style=for-the-badge&logo=data:logo/png;base64&url=https%3A%2F%2Fleontan.netlify.app)](https://leontan.netlify.app)
+[![Website](https://img.shields.io/website?label=Website%20Portfolio&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAAElBMVEURIkA2goM/m5VKu6th+dZk/9plEUXPAAAALElEQVR42mMgB4yCUcDMysrKBGYxsSIBFkY6K8XkDnWlo0phgJmeSkfBKAAAj70Dk1pFihQAAAAASUVORK5CYII&url=https%3A%2F%2Fleontan.netlify.app)](https://leontan.netlify.app)
 
 <!-- [![GitHub Follow](https://img.shields.io/github/followers/leontan4?color=success&logo=github&style=for-the-badge)](https://github.com/leontan4) -->
 

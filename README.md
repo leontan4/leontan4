@@ -2,8 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=Website%20Portfolio&style=for-the-badge&logo=data:image/logo.png&url=https%3A%2F%2Fleontan.netlify.app)](https://leontan.netlify.app)
 [![GitHub Follow](https://img.shields.io/github/followers/leontan4?color=success&logo=github&style=for-the-badge)](https://github.com/leontan4)
-[![GitHub Commits] (https://badges.pufler.dev/commits/yearly/leontan4?color=success&logo=github&style=for-the-badge)](https://github.com/leontan4)
-[![GitHub Visits] (https://badges.pufler.dev/visits/leontan4/leontan4?color=success&style=for-the-badge)](https://github.com/leontan4)
+![Commits Badge](https://badges.pufler.dev/commits/yearly/leontan4?color=success&logo=github&style=for-the-badge)
+![Visits Badge](https://badges.pufler.dev/visits/leontan4/leontan4?color=success&style=for-the-badge)
 
 ## I'm a recent graduate looking for Software Engineering positions!!
 

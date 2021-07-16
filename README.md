@@ -1,9 +1,9 @@
 ### Hi there, I'm Leon 👋
 
-[![Website](https://img.shields.io/website?label=Website%20Portfolio&style=for-the-badge&logo=data:image/logo.png&url=https%3A%2F%2Fleontan.netlify.app)](leontan.netlify.app)
+[![Website](https://img.shields.io/website?label=Website%20Portfolio&style=for-the-badge&logo=data:image/logo.png&url=https%3A%2F%2Fleontan.netlify.app)](https://leontan.netlify.app)
 [![GitHub Follow](https://img.shields.io/github/followers/leontan4?color=success&logo=github&style=for-the-badge)](https://github.com/leontan4)
-[![GitHub Commits] (https://badges.pufler.dev/commits/yearly/leontan4?color=success&logo=github&style=for-the-badge)]()
-[![GitHub Visits] (https://badges.pufler.dev/visits/leontan4/leontan4?color=success&style=for-the-badge)]()
+[![GitHub Commits] (https://badges.pufler.dev/commits/yearly/leontan4?color=success&logo=github&style=for-the-badge)](https://github.com/leontan4)
+[![GitHub Visits] (https://badges.pufler.dev/visits/leontan4/leontan4?color=success&style=for-the-badge)](https://github.com/leontan4)
 
 ## I'm a recent graduate looking for Software Engineering positions!!
 

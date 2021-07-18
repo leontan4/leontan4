@@ -1,6 +1,6 @@
 ### Hi there, I'm Leon 👋
 
-[![Website](https://img.shields.io/website?label=Website%20Portfolio&style=for-the-badge&logo=data:https://github.com/leontan4/leontan4/blob/master/logo.png)](https://leontan.netlify.app)
+[![Website](https://img.shields.io/website?label=Website%20Portfolio&style=for-the-badge&logo=data:https://github.com/leontan4/leontan4/blob/master/logo.png&url=https%3A%2F%2Fleontan.netlify.app)](https://leontan.netlify.app)
 ![Commits Badge](https://badges.pufler.dev/commits/yearly/leontan4?color=success&logo=github&style=for-the-badge)
 ![Visits Badge](https://badges.pufler.dev/visits/leontan4/leontan4?color=success&style=for-the-badge)
 

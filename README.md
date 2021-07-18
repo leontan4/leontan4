@@ -1,6 +1,6 @@
 ### Hi there, I'm Leon 👋
 
-[![Website](https://img.shields.io/website?label=Website%20Portfolio&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAAElBMVEURIkA2goM/m5VKu6th+dZk/9plEUXPAAAALElEQVR42mMgB4yCUcDMysrKBGYxsSIBFkY6K8XkDnWlo0phgJmeSkfBKAAAj70Dk1pFihQAAAAASUVORK5CYII&url=https%3A%2F%2Fleontan.netlify.app)](https://leontan.netlify.app)
+[![Website](https://img.shields.io/website?label=Website%20Portfolio&style=for-the-badge&logo=data:https://github.com/leontan4/leontan4/blob/master/logo.png)](https://leontan.netlify.app)
 ![Commits Badge](https://badges.pufler.dev/commits/yearly/leontan4?color=success&logo=github&style=for-the-badge)
 ![Visits Badge](https://badges.pufler.dev/visits/leontan4/leontan4?color=success&style=for-the-badge)
 
@@ -30,11 +30,11 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />

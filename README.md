@@ -27,6 +27,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
+
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" />

@@ -68,9 +68,9 @@
 
 <!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
----
+<!-- --- -->
 
-<!-- ### 📕 Latest Blog Posts --> -->
+<!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -83,7 +83,7 @@
 
 <!-- ➡️ [more blog posts...](https://codestackr.com) -->
 
----
+<!-- --- -->
 
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary> -->

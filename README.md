@@ -12,7 +12,7 @@
 - 💻 I am proficient in: **Java, JavaScript, Node.js/Express, React, Redux, Git, SQL, PostgreSQL, MongoDB, HTML/CSS, Git, Python**.
 - 📖 I’m currently learning **AWS, LeetCode**.
 - 📫 How to reach me: <a href="mailto:leon.tan004@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/leontan4">LinkedIn</a>
-- 🥅 2021 Goals: Obtained the AWS Certified Cloud Practitioner.
+- 🥅 2021 Goals: Obtained the AlgoExpert + SystemExpert Certification.
 - ⚡ Fun fact: I love to play Chinese Chess and go Snowboarding. I am also a finance geek and love to discuss/debate about the economy.
 
 <!--

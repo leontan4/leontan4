@@ -6,13 +6,13 @@
 
 <!-- [![GitHub Follow](https://img.shields.io/github/followers/leontan4?color=success&logo=github&style=for-the-badge)](https://github.com/leontan4) -->
 
-## I'm a recent graduate looking for Software Engineering positions!!
+## I'm a passionate Fullstack Web Developer!!
 
 - 🔭 I graduated and obtained my Master's from University of St. Thomas!
 - 💻 I am proficient in: **Java, JavaScript, Node.js/Express, React, Redux, Git, SQL, PostgreSQL, MongoDB, Git, Python, Docker**.
-- 📖 I’m currently learning **AWS, LeetCode**.
+- 📖 I’m currently learning **Spring, SpringBoot, Hibernate**.
 - 📫 How to reach me: <a href="mailto:leon.tan004@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/leontan4">LinkedIn</a>
-- 🥅 2021 Goals: Learn Kubernets, SpringBoot. Obtained the AlgoExpert + SystemExpert Certification.
+- 🥅 2022 Goals: Learn Spring, SpringBoot, Hibernate. Obtained the AlgoExpert + SystemExpert Certification.
 - ⚡ Fun fact: I love to play Chinese Chess and go Snowboarding. I am also a finance geek and love to discuss/debate about the economy.
 
 <!--

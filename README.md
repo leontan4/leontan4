@@ -8,10 +8,10 @@
 ## I'm a passionate Fullstack Web Developer!!
 
 - 🔭 I graduated and obtained my Master's from University of St. Thomas!
-- 💻 I am proficient in: **Java, JavaScript, Node.js/Express, React, Redux, Git, SQL, PostgreSQL, MongoDB, Git, Python, Docker**.
-- 📖 I’m currently learning **Spring, SpringBoot, Hibernate**.
+- 💻 I am proficient in: **Python, Java, Node.js/Express, React,, Git, SQL, PostgreSQL, MongoDB, Git, Docker**.
+- 📖 I’m currently learning **Spring, SpringBoot, Hibernate, Django**.
 - 📫 How to reach me: <a href="mailto:leon.tan004@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/leontan4">LinkedIn</a>
-- 🥅 2022 Goals: Obtained the AlgoExpert + SystemExpert Certification.
+- 🥅 2022 Goals: Obtained the AlgoExpert + SystemExpert Certification, Improve Data Structure & Algorithms.
 - ⚡ Fun fact: I love to play Chinese Chess and go Snowboarding. I am also a finance geek and love to discuss/debate about the economy.
 
 <!--

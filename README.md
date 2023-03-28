@@ -8,7 +8,7 @@
 ## I'm a passionate Fullstack Web Developer!!
 
 - 🔭 I graduated and obtained my Master's from University of St. Thomas!
-- 💻 I am proficient in: **Python, Java, Node.js/Express, React,, Git, SQL, PostgreSQL, MongoDB, Git, Docker**.
+- 💻 I am proficient in: **Python, Java, Node.js/Express, Git, SQL, PostgreSQL, MongoDB, Git, Docker**.
 - 📖 I’m currently learning **AWS, Flask, Django, dbt, Spark**.
 - 📫 How to reach me: <a href="mailto:leon.tan004@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/leontan4">LinkedIn</a>
 - 🥅 2023 Goals: Be a better learner and Software Developer, Improve on Data Structure & Algorithms.

@@ -1,7 +1,7 @@
 ### Hi there, I'm Leon 👋
 
 [![Website](https://img.shields.io/website?label=Website%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fleontan.netlify.app)](https://leontan.netlify.app)
-![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=leontan4&label=Visited&logo=GitHub&logoColor=FFFFFF&color=brightgreen&style=for-the-badge)
+<!-- ![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=leontan4&label=Visited&logo=GitHub&logoColor=FFFFFF&color=brightgreen&style=for-the-badge) -->
 
 <!-- [![GitHub Follow](https://img.shields.io/github/followers/leontan4?color=success&logo=github&style=for-the-badge)](https://github.com/leontan4) -->
 

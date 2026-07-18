@@ -33,8 +33,8 @@
 <img align="left" alt="PostgreSQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />     
 <img align="left" alt="Terraform" width="45px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />     
 <img align="left" alt="Spark" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" /> 
-<img align="left" alt="Docker" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />          
-<img align="left" alt="Git" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+<img align="left" alt="Docker" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />          
+<img align="left" alt="Git" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 
 <!-- ### 📺 Latest YouTube Videos -->
 

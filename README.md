@@ -20,7 +20,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="35px" src="https://github.com/leontan4/leontan4/blob/master/logo.png" />][website]
+<!-- [<img align="left" alt="codeSTACKr.com" width="35px" src="https://github.com/leontan4/leontan4/blob/master/logo.png" />][website] -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br/>

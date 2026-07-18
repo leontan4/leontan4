@@ -8,10 +8,9 @@
 ## I'm a passionate Data Engineer!!
 
 - 🔭 I graduated and obtained my Master's from University of St. Thomas!
-- 💻 I am proficient in: **Python, Java, Node.js/Express, Git, SQL, PostgreSQL, MongoDB, Git, Docker**.
-- 📖 I’m currently learning **AWS, Terraform**.
+- 💻 I am proficient in: **Python, Java, Spark, dbt, Airflow, Git, SQL, PostgreSQL, Git, Docker, Databricks, AWS tech stack**.
 - 📫 How to reach me: <a href="mailto:leon.tan004@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/leontan4">LinkedIn</a>
-- 🥅 2025 Goals: Be a better learner and Software Developer, Improve on Data Structure & Algorithms.
+- 🥅 2026 Goals: Be a better learner and Software Developer, Improve on Data Structure & Algorithms.
 - ⚡ Fun fact: I love to play Chinese Chess and go Snowboarding. I am also a finance geek and love to discuss/debate about the economy.
 
 <!--
@@ -30,13 +29,12 @@
 
 <img align="left" alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Node.js" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-<img align="left" alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="MySQL" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-<img align="left" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img align="left" alt="AWS" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<img align="left" alt="Airflow" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
+<img align="left" alt="PostgreSQL" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />     
+<img align="left" alt="Terraform" width="55px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" />     
+<img align="left" alt="Spark" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" /> 
+<img align="left" alt="Docker" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="Git" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 
 <!-- ### 📺 Latest YouTube Videos -->
